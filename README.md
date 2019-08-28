@@ -1,2 +1,3 @@
 # Hello-NEW-World
-just starting coding from scratch
+
+Feel like I am an alien on the moon. Hope to find the right direction soon.
